@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning PHP
 - 💬 Ping me about design, branding, marketing
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luka-agic-508703252/) , [Email](mailto:agic.luke@gmail.com)
-- ⚡️ Fun fact: Zvonko Bogdan invented hip-hop!
+- ⚡️ Fun fact: Zvonko Bogdan invented [hip-hop](https://www.youtube.com/watch?v=gB-jrwZsTH8&t=184s)!
 
 Thanks for visiting!
 
