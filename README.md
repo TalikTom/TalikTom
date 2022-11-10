@@ -5,8 +5,8 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning PHP
-- 📫 You can reach me at agic.luke@gmail.com
 - 💬 Ping me about design, branding, marketing
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luka-agic-508703252/) , [Email](mailto:agic.luke@gmail.com)
 - ⚡️ Fun fact: Zvonko Bogdan invented hip-hop!
 
 Thanks for visiting!
