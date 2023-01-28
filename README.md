@@ -10,3 +10,4 @@
 
 Thanks for visiting!
 
+![](https://komarev.com/ghpvc/?username=taliktom)
