@@ -9,7 +9,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luka-agic-508703252/), [Email](mailto:agic.luke@gmail.com)
 
 
-Visit my practice page -> [here](https://www.agal.uk/))
+Visit my practice page -> [here](https://www.agal.uk/)
 
 Thanks for visiting!
 
