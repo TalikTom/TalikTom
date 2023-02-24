@@ -5,7 +5,6 @@
 ### Hi, I'm Luka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 - 🌱 I’m currently learning PHP
-- 💬 Ping me about design, branding, marketing
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luka-agic-508703252/), [Email](mailto:agic.luke@gmail.com)
 
 
