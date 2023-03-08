@@ -4,7 +4,7 @@
 
 ### Hi, I'm Luka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning C# and PHP
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luka-agic-508703252/), [Email](mailto:agic.luke@gmail.com)
 
 
