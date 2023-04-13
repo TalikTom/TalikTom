@@ -4,11 +4,13 @@
 
 ### Hi, I'm Luka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-- 🌱 I’m currently learning C# and PHP
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luka-agic-508703252/), [Email](mailto:agic.luke@gmail.com)
+- 🔥 Currently working on C# .NET Framework Web API, MVC and multilayer architecture
+- 🌱 Learning and improving my skills in C#, PHP, backend development
+- 🤝 Open to collaboration on exciting projects
+- 📫 Reach me at:: [Linkedin](https://www.linkedin.com/in/luka-agic-508703252/), [Email](mailto:agic.luke@gmail.com)
 
 
-Visit my practice live page -> [here](https://www.agal.uk/)
+🌐 Check out my practice live page -> [here](https://www.agal.uk/)
 
 Thanks for visiting!
 
